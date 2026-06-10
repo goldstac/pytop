@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=PyTop
+Comment=Modern Linux System Monitor TUI by Li Productions
+Exec=pytop
+Icon=utilities-system-monitor
+Terminal=true
+Categories=System;Monitor;
+Keywords=system;process;htop;task;manager;
